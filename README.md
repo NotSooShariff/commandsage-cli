@@ -27,7 +27,13 @@ This Python command-line interface (CLI) startup tool is a personal project that
    cd CommandSage
    ```
 
-2. **Prerequisites**: Make sure you have Python 3 installed on your system.
+2. **Prerequisites**: Make sure you have Python 3 installed on your system. And then use the following command to install pip dependencies:
+
+    ```python
+    pip install os requests sys
+    ```
+
+3. **Customise it**: Grab an API key from [NewsAPI](https://newsapi.org/) if you want the grabbing latest news functionality. And edit it in the `boot.py` by replacing the hashes in `NEWS_API_KEY = '###################'`. You can also make a [Custom Banner Art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) when it starts up instead of `Osh's Sage` displayed right now.  
 
 3. **Run the Tool**: To run the CLI tool, simply execute the main Python script:
 
