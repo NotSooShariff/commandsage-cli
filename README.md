@@ -67,10 +67,11 @@ The "Command Manager" is where you can create and manage your custom workflows. 
 Here's an example of how you can use the tool to simplify your daily tasks:
 
 1. Use the prebuilt workflows to quickly access your favorite websites and check the weather forecast.
+2. 
 
-2. Create a custom workflow named "DailyReport" that runs a series of commands to generate a daily report. You can add this to the "Command Manager."
+3. Create a custom workflow named "DailyReport" that runs a series of commands to generate a daily report. You can add this to the "Command Manager."
 
-3. Add the tool to your `~/.bashrc` file to have it automatically launch on startup.
+4. Add the tool to your `~/.bashrc` file to have it automatically launch on startup.
 
 🚧 **Limitations**
 

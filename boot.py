@@ -2,7 +2,7 @@ import sys
 import os
 import requests
 
-NEWS_API_KEY = '0c261d1464c34297acc3e2c1439676c0'
+NEWS_API_KEY = '###################'
 
 # Console Colors
 G = '\033[92m'  # Green
