@@ -4,6 +4,7 @@
 
 This Python command-line interface (CLI) startup tool is a personal project that you can use to streamline your daily tasks and automate various workflows. It's designed to be simple and extensible, allowing you to create and manage your own custom workflows. While the tool comes with five prebuilt workflows, its real power lies in its ability to adapt to your specific needs.
 
+![Banner Image](assets/banner.png)
 
 > 📌 **Note**
 > 
