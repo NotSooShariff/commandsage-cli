@@ -1,4 +1,5 @@
-# CommandSage: A Python Based CLI Utility for Workflow Automation
+<h1 align="center">CommandSage 🪄</h1>  
+<h2 align="center">A Python-based CLI Utility for Workflow Automation</h2>  
 
 🚀 **Overview**
 
